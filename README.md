@@ -8,7 +8,7 @@ A collection of my CAD projects built in [Onshape](https://www.onshape.com) — 
 
 | Project | Description | Category | Link |
 |---------|-------------|----------|------|
-| FTC Decode Robot | A sample project description | Mechanical | [Open in Onshape](https://cad.onshape.com) |
+| FTC Decode Robot v1 | A simple robot that used entirely 3d printed structure  | Mechanical | [https://cad.onshape.com/documents/ef12cfbaa4d9858dcfdd0584/w/29770260ec1adfdb0f59ba47/e/08c05218ffa140da9830f355](url) |
 
 | Project | Description | Category | Link |
 |---------|-------------|----------|------|
