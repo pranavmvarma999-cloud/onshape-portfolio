@@ -8,9 +8,11 @@ A collection of my CAD projects built in [Onshape](https://www.onshape.com) — 
 
 | Project | Description | Category | Link |
 |---------|-------------|----------|------|
-| Example Project | A sample project description | Mechanical | [Open in Onshape](https://cad.onshape.com) |
+| FTC Decode Robot | A sample project description | Mechanical | [Open in Onshape](https://cad.onshape.com) |
 
-> Replace the row above with your own projects. See [TEMPLATE.md](./TEMPLATE.md) for how to add more.
+| Project | Description | Category | Link |
+|---------|-------------|----------|------|
+| Example Project | A sample project description | Mechanical | [Open in Onshape](https://cad.onshape.com) |
 
 ---
 
