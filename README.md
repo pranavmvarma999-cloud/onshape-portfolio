@@ -8,7 +8,7 @@ A collection of my CAD projects built in [Onshape](https://www.onshape.com) — 
 
 | Project | Description | Category | Link |
 |---------|-------------|----------|------|
-| FTC Into The Deep Final Robot | A refined robot that could lift and place game elements | Mechanical | [link](https://cad.onshape.com/documents/97bc7e7c916bb2be51471a72/w/f43ec9d71d008941d20f7ea2/e/f6c9a88d3e4dc638cabecbf9) |
+| FTC Into The Deep Final Robot | A refined robot that could lift and place game elements | Mechanical | [link](https://cad.onshape.com/documents/97bc7e7c916bb2be51471a72/w/f43ec9d71d008941d20f7ea2/e/18e7080cc49e9613a6f84b9d?renderMode=0&uiState=6a14e50567c9ccf84d7a6ca2) |
 
 | Project | Description | Category | Link |
 |---------|-------------|----------|------|
