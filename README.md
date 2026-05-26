@@ -25,29 +25,14 @@ NOTE: All projects are in OnShape and the links need to be copied and pasted sep
 | Seed Sprouter | A seed sprouter stand that holds a jar upside down, allowing seeds to drain and sprout without sitting in water. | Hobby | [Open in Onshape](https://cad.onshape.com/documents/9eb21901b544bfbb7a1f1b39/w/8d8605244a9bc63ebd2e9d7e/e/59969883e942f875ad5abed3) |
 ---
 
-## 📁 Categories
-
-Use these tags to organize your projects in the table above:
-
-- `Mechanical` — gears, linkages, structural parts
-- `Consumer Product` — everyday objects, enclosures
-- `Hobby / RC` — drones, cars, robots
-- `3D Printing` — designed for FDM/resin printing
-- `Assembly` — multi-part assemblies
-- `Learning` — exercises and skill-building
-
-Feel free to add your own.
-
----
-
 ## 🔧 Tools & Skills
 
-- **Platform**: [Onshape](https://www.onshape.com) (browser-based parametric CAD)
+- **Platform**: [Onshape](https://www.onshape.com) (browser-based parametric CAD), also able to use both Fusion 360 as well as solid works proficiently
 - **Exports**: STEP, STL, DXF (available on request per project)
-- **Techniques**: Part studios, assemblies, configurations, FeatureScript
+- **Techniques**: Part studios, assemblies, configurations, FeatureScripts
 
 ---
 
 ## 📬 Contact
 
-If you'd like to collaborate or use any of these designs, feel free to open an issue or reach out directly.
+If you'd like to collaborate or have any questions about these designs, feel free to open an issue or reach out directly.
