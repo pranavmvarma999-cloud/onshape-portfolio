@@ -8,7 +8,7 @@ A collection of my CAD projects built in [Onshape](https://www.onshape.com) — 
 
 | Project | Description | Category | Link |
 |---------|-------------|----------|------|
-| FTC Decode Robot v1 | A simple robot that used entirely 3d printed structure  | Mechanical | [link](https://cad.onshape.com/documents/ef12cfbaa4d9858dcfdd0584/w/29770260ec1adfdb0f59ba47/e/08c05218ffa140da9830f355) |
+| FTC Into The Deep Final Robot | A refined robot that could lift and place game elements | Mechanical | [link](https://cad.onshape.com/documents/97bc7e7c916bb2be51471a72/w/f43ec9d71d008941d20f7ea2/e/f6c9a88d3e4dc638cabecbf9) |
 
 | Project | Description | Category | Link |
 |---------|-------------|----------|------|
